@@ -1,0 +1,30 @@
+<resources>
+
+    <string name="app_name">Trainning</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_novo">New</string>
+    <string name="img_description_icone">Icon</string>
+    <string name="btn_exemplo">Sample</string>
+    <string name="hint_txt_valor">Enter value</string>
+    <string name="toast_voce_digitou">You have entered: %s</string>
+    <string name="toast_click_posicao">You have clicked at position %s.</string>
+    <string name="toast_click_nome">You have clicked at %s.</string>
+    <string name="title_activity_contato">Contact</string>
+    <string name="hint_txt_nome">Name</string>
+    <string name="hint_txt_endereco">Address</string>
+    <string name="hint_txt_site">Site</string>
+    <string name="hint_txt_telefone">Phone</string>
+    <string name="btn_salvar">Save</string>
+    <string name="erro_obrigatorio">Preenchimento obrogatório!</string>
+    <string name="menu_editar">Editar</string>
+    <string name="menu_excluir">Excluir</string>
+    <string name="sim">Sim</string>
+    <string name="msg_sim">Sim</string>
+    <string name="msg_nao">Não</string>
+    <string name="msg_confirmacao_exclusao">Deseja excluir o contato %s ?</string>
+    <string name="incluir_contato">Incluir Contato</string>
+    <string name="alterar_contato">Alterar contato</string>
+    <string name="listar_contatos">Listar Contatos</string>
+
+</resources>

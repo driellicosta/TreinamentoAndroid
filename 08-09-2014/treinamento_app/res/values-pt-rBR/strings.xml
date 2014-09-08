@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="action_settings">Ajustes</string>
+    <string name="app_name">Treinamento</string>
+    <string name="hello_world">Olá mundo!</string>
+    <string name="img_description_icone">Ícone</string>
+    <string name="btn_exemplo">Exemplo</string>
+    <string name="hint_txt_valor">Informe o valor</string>
+    <string name="toast_voce_digitou">Você digitou: %s</string>
+    <string name="toast_click_posicao">Você clicou na posição %s.</string>
+    <string name="toast_click_nome">Você clicou em %s.</string>
+    <string name="title_activity_contato">Contato</string>
+    <string name="action_novo">Novo</string>
+    <string name="hint_txt_nome">Nome</string>
+    <string name="hint_txt_endereco">Endereço</string>
+    <string name="hint_txt_site">Site</string>
+    <string name="hint_txt_telefone">Telefone</string>
+    <string name="btn_salvar">Salvar</string>
+
+</resources>
