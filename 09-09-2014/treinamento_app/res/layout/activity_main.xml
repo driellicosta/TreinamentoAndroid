@@ -1,0 +1,33 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/PaddingLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="br.com.cast.treinamento.app.MainActivity" >
+
+    <EditText
+        android:id="@+id/txtNomeFiltro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/hint_txt_nome"
+        android:inputType="textPersonName" >
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/txtTelefoneFiltro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/hint_txt_telefone"
+        android:inputType="phone" />
+
+    <Button
+        android:id="@+id/btnPesquisar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_Pesquisar" />
+
+</LinearLayout>
