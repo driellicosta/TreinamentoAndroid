@@ -1,0 +1,1 @@
+CREATE TABLE tb_contato (id INTEGER PRIMARY KEY, nome TEXT NOT NULL, endereco TEXT NOT NULL, site TEXT NOT NULL, telefone TEXT NOT NULL, avaliacao REAL, foto TEXT);
